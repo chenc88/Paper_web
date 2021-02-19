@@ -1,6 +1,8 @@
 ---
-title: " "
-output: html_notebook
+title: ' '
+output:
+  html_document:
+    df_print: paged
 ---
 
 <br> 
@@ -18,7 +20,7 @@ I will show:
 3. [A bibliography](#bib).
 
 ____
-
+# 4 hyphens will produce a line
 <a id='table'></a>
 
 # A table

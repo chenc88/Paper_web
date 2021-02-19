@@ -47,7 +47,18 @@ Using **summary tools** for categorical data:
 
 ```{r}
 # optional
-#remotes::install_github('rapporter/pander')
+remotes::install_github('rapporter/pander')
+
+#Try 
+#library("papeR")
+#summarize(fromPy)
+
+#devtools::install_github("dcomtois/summarytools", ref = "dev-current")
+
+#install.packages("summarytools")
+
+#install.packages("remotes")
+#remotes::install_github("dcomtois/summarytools")
 ```
 
 ```{r, results='asis'}

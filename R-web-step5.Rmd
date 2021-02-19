@@ -143,7 +143,7 @@ plot1 + labs(title = "Arms to keep authoritarianism?",
 
 
 ```{r}
-#devtools::install_github("crsh/citr")
+devtools::install_github("crsh/citr")
 ```
 
 Finally, get a zotero account and download the app. In your local zotero create a folder (collection) biblio_example. Add this (paper)[https://science.sciencemag.org/content/103/2684/677].
